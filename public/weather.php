@@ -53,6 +53,14 @@
             margin-top: 150px;
         }
 
+        .release{
+            border:solid 1px black;
+            background-color: #9BABB8;
+            font-weight: bold;
+            border-radius:10px;
+            height: 250px;
+        }
+
 	</style>
 	<div class="container">
             <div class="header">
@@ -70,7 +78,7 @@
         </div>
         <div class="wrap">
             <form action = "weather_res.php" method=post>
-                <table border = 1>
+                <table  class="release">
                     <tr><td>地區 : </td><td>
                                             <select name='wea_location'>
                                                 <option value=台北>台北</option>

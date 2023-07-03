@@ -4,6 +4,11 @@
         *,*::after,*::before{
             box-sizing:border-box;
         }
+        a{
+            text-decoration: none;
+            color:#020202;
+            font-weight: bold;
+        }
         .header{
             display: flex;
             align-items: center;
@@ -53,6 +58,13 @@
             justify-content: center;
             margin-top: 150px;
         }
+        .display{
+            
+            background-color: #9BABB8;
+            font-weight: bold;
+            border-radius:10px;
+            height: 250px;
+        }
 
 	</style>
 
@@ -80,7 +92,7 @@
 	搜尋:<input type=text name='content'> <input type=submit value=查找>
 </form>
 
-<table border =1>
+<table border =1 class="display">
 <?php
 
 	if(isset($_GET['content']))
@@ -115,8 +127,8 @@
 	   echo "<td> $wea_date </td>";
 	   echo "<td> $wea_spac</td>"; 
 	   echo "<td> "; 
-	   echo "<a href='weather_delete.php?id=$weapid'>刪除</a> &nbsp ";
-	   echo "<a href='weather_update.php?id=$weapid'>更新</a> &nbsp ";
+	   echo "<a href='weather_delete.php?id=$weapid' >刪除</a> &nbsp ";
+	   echo "<a href='weather_update.php?id=$weapid' >更新</a> &nbsp ";
 	    
 	   echo " </td>";  
    }

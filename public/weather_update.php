@@ -52,6 +52,13 @@
             justify-content: center;
             margin-top: 150px;
         }
+        .update{
+            border:solid 1px black;
+            background-color: #9BABB8;
+            font-weight: bold;
+            border-radius:10px;
+            height: 250px;
+        }
 
 	</style>
 
@@ -93,7 +100,7 @@
 
 ?>
 	<form action = "weather_update_res.php" method = post class="box">
-		<table border = 1>
+		<table class="update">
 			<input type =hidden name = weapid value= <?php echo $weapid?>> 
 			<tr>
 			<td>地區 : </td><td> 

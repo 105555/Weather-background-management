@@ -3,7 +3,7 @@
 	<style>
 
 		body{
-			background-color:#0A6EBD;
+			
 			display: flex;
 			justify-content: center;
 			align-items: center; 
@@ -11,13 +11,15 @@
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
 		}
-		
+		a{
+			text-decoration: none;
+		}
 		.register{
 			text-align: center;
 			
 		}
 		.background{
-			background-color:#4FC0D0;
+			background-color:#9BABB8;
 			width:300px;
 			display: flex;
 			justify-content: center;
