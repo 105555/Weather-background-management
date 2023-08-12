@@ -1,13 +1,15 @@
 # Weather-background-management (PHP)
-Topic : 天氣發布管理系統
 
-Function :
+## Topic : 天氣發布管理系統
 
-          1.註冊及登入功能
+### Function :
 
-          2.發布氣象資訊
+    - 1.註冊及登入功能
+
+    - 2.發布氣象資訊
+    
+    - 3.更新及刪除氣象資訊
+
           
-          3.更新及刪除氣象資訊
-
-          
-Database : PHPMyadmin
+### Database 
+   - PHPMyadmin
