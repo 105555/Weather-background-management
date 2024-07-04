@@ -1,10 +1,6 @@
 # 天氣發布管理系統_陽春版
 
-![Static Badge](https://img.shields.io/badge/PhpMyadmin-8A2BE2?logoColor=green&labelColor=green)![Static Badge](https://img.shields.io/badge/Php-8A2BE2?logoColor=green&labelColor=green)
-
-
-## 專案環境
-   - PHPMyadmin
+![Static Badge](https://img.shields.io/badge/PhpMyadmin-8A2BE2?logoColor=green&labelColor=green) ![Static Badge](https://img.shields.io/badge/Php-#000?logoColor=green&labelColor=green)
 
 ## 專案建置
 ### windows OS
