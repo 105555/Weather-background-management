@@ -1,6 +1,6 @@
 # 天氣發布管理系統_陽春版
 
-![Static Badge](https://img.shields.io/badge/PhpMyadmin-8A2BE2?logoColor=green&labelColor=green) ![Static Badge](https://img.shields.io/badge/PHP-%23000?logoColor=green&labelColor=green)
+![Static Badge](https://img.shields.io/badge/PhpMyadmin-8A2BE2?logoColor=green&labelColor=green) ![Static Badge](https://img.shields.io/badge/PHP-%23999?logoColor=green&labelColor=green)
 
 
 ## 專案建置
