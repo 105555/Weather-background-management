@@ -16,8 +16,8 @@
 2. 設定 Preferences 
 **預設都是選擇 mamp 資料夾內的 htdocs**
 **將要啟動的資料夾放入 htdocs**
-4. 右上角 Start 啟動 
-5. 進入 Mamp phpMyadmin 創建 Schema 名稱**m0039**
+3. 右上角 Start 啟動 
+4. 進入 Mamp phpMyadmin 創建 Schema 名稱**m0039**
 創建 Table **member_m0039** ＆ **weather_m0039**
 ## 專案概述
 - 首頁示意圖
